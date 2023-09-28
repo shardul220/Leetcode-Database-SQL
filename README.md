@@ -1,2 +1,3 @@
-# Leetcode-Database-SQL-
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# Leetcode-Database-SQL
+Solved LeetCode questions!
+[My Leetcode Profile](https://leetcode.com/samdurkar/)
