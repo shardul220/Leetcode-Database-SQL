@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/customers-with-strictly-increasing-purchases">Customers With Strictly Increasing Purchases</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>Table: <code>Orders</code></p>
+<h2><a href="https://leetcode.com/problems/customers-with-strictly-increasing-purchases">2613. Customers With Strictly Increasing Purchases</a></h2><h3>Hard</h3><hr><p>Table: <code>Orders</code></p>
 
 <pre>
 +--------------+------+
